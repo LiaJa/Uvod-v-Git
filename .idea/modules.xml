@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Bootsstrap_lekcija/.idea/Bootsstrap_lekcija.iml" filepath="$PROJECT_DIR$/../Bootsstrap_lekcija/.idea/Bootsstrap_lekcija.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CSS-lekcija/.idea/CSS-lekcija.iml" filepath="$PROJECT_DIR$/../CSS-lekcija/.idea/CSS-lekcija.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Fakebook project.iml" filepath="$PROJECT_DIR$/.idea/Fakebook project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HTML lekcija/.idea/HTML lekcija.iml" filepath="$PROJECT_DIR$/../HTML lekcija/.idea/HTML lekcija.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../git/.idea/git.iml" filepath="$PROJECT_DIR$/../git/.idea/git.iml" />
+    </modules>
+  </component>
+</project>
